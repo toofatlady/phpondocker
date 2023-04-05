@@ -1,4 +1,5 @@
 # phpondocker
+ChatGPT made this Dockerfile
 
 How to use the repo
 1. Dockerfile and index.php are on same directory
